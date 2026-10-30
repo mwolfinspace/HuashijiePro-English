@@ -1,5 +1,7 @@
 # Huashijie Pro 3.4.6 — English portable edition
 
+🇻🇳 Hướng dẫn tiếng Việt: [HUONG-DAN-VI.md](HUONG-DAN-VI.md)
+
 A fully English, **install-free** Windows build of Huashijie Pro 3.4.6.
 Extract the zip, double-click one file, start drawing.
 
