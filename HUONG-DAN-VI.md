@@ -12,11 +12,8 @@ Bản gốc chỉ có tiếng Trung. Đây là bản **đã dịch toàn bộ gi
 
 | Nơi tải | Link |
 |---|---|
-| **GitHub** (file zip) | https://github.com/mwolfinspace/HuashijiePro-English/releases/latest |
-| **Gitea** (trang giới thiệu) | https://gitea.xedryk.top/xedryk/HuashijiePro-English/releases/tag/v3.4.6 |
-
-Link tải trực tiếp:
-https://github.com/mwolfinspace/HuashijiePro-English/releases/download/v3.4.6/HuashijiePro-English-3.4.6-win64.zip
+| **GitHub** (trang chính) | https://github.com/mwolfinspace/HuashijiePro-English/releases/latest |
+| **Tải trực tiếp file zip** | https://github.com/mwolfinspace/HuashijiePro-English/releases/download/v3.4.6/HuashijiePro-English-3.4.6-win64.zip |
 
 - Dung lượng: **257 MB** (giải nén ra khoảng 530 MB)
 - SHA-256: `cdb9baeb9a370573da93ad819f47c7ccecb3779d923d70ab3a84723ee9293916`
