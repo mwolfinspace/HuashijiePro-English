@@ -9,7 +9,7 @@ Extract the zip, double-click one file, start drawing.
 
 | File | Size | SHA-256 |
 |---|---|---|
-| `HuashijiePro-English-3.4.6-win64.zip` | 257 MiB | `cdb9baeb9a370573da93ad819f47c7ccecb3779d923d70ab3a84723ee9293916` |
+| `HuashijiePro-English-3.4.6-win64.zip` | 257 MiB | `3200deaffa59f56f1360f2f6c0b8b5301188733f71c990400a9c946d2f798d8e` |
 
 Get it from the [latest release](../../releases/latest).
 
@@ -39,8 +39,10 @@ the vendor's server), vendor promo art, licence text, and source comments.
 
 An existing selection now **follows Flip Canvas** (the vendor's flip task only
 flipped the pixels). This is a native patch in `hsjpro_engine.dll`: the flip
-worker mirrors the selection mask and its rectangle, and fails soft on any
-unexpected state.
+worker mirrors the whole canvas-sized selection mask and the selection
+rectangle about the canvas centre, so lasso, Magic Wand and **Ctrl+click layer**
+selections all land exactly on the flipped art. It fails soft on any unexpected
+state.
 
 ## Requirements
 
