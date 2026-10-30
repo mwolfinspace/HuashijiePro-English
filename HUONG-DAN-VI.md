@@ -16,7 +16,7 @@ Bản gốc chỉ có tiếng Trung. Đây là bản **đã dịch toàn bộ gi
 | **Tải trực tiếp file zip** | https://github.com/mwolfinspace/HuashijiePro-English/releases/download/v3.4.6/HuashijiePro-English-3.4.6-win64.zip |
 
 - Dung lượng: **257 MB** (giải nén ra khoảng 530 MB)
-- SHA-256: `cdb9baeb9a370573da93ad819f47c7ccecb3779d923d70ab3a84723ee9293916`
+- SHA-256: `3200deaffa59f56f1360f2f6c0b8b5301188733f71c990400a9c946d2f798d8e`
 
 ---
 
@@ -55,6 +55,8 @@ Mở bằng `Start...` một lần là đủ, sau đó thích mở file nào cũ
 - Toàn bộ menu, bảng công cụ, hộp thoại, tooltip → **tiếng Anh**.
 - **26 nhóm cọ** và **359 tên cọ** đã dịch; tên bảng phím tắt, bảng màu, danh sách quốc gia cũng đã dịch.
 - **Sửa lỗi:** vùng chọn (selection) giờ **đi theo Flip Canvas** (bản gốc chỉ lật hình, vùng chọn đứng yên).
+  Đúng cho cả Lasso, Magic Wand và **Ctrl+click vào layer** (chọn theo vùng của layer) — vùng chọn lật
+  đúng tâm canvas, không bị lệch.
 - Chạy **portable**: không ghi vào `Program Files`, không cần cài Qt / runtime, không cần quyền admin.
 
 ---
