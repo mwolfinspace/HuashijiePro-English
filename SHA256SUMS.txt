@@ -1,0 +1,3 @@
+cdb9baeb9a370573da93ad819f47c7ccecb3779d923d70ab3a84723ee9293916  HuashijiePro-English-3.4.6-win64.zip
+8a193bbeae34f7dd564e215838d05ea5d69d1f551b7a607c88667c95b716993d  hsjpro.exe
+7333407ddc2ade86a4cecb0ded5f1300d43bb5a6c6829f1a20bd59c471b98874  hsjpro_engine.dll
